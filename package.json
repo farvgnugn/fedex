@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/digitalprojectventures/fedex-nodejs"
+    "url": "http://mesvc01:7990/scm/fdx/fedex.git"
   },
   "keywords": [
     "fedex"
